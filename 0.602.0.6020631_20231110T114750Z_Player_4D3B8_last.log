@@ -1,0 +1,115 @@
+2023-11-10T11:47:50.966Z,0.966176,25f4,6 [FLog::Output] Loading AppSettings.xml from C:\Users\GSL.AIR\AppData\Local\Roblox\Versions\version-3aba366803e44f0e\AppSettings.xml
+2023-11-10T11:47:50.968Z,0.968176,25f4,6 [FLog::Output] RobloxChannel has been set to production
+2023-11-10T11:47:50.969Z,0.969176,25f4,6,Warning [FLog::Output] Unrecognized Protocol Arg: roblox-player:1
+2023-11-10T11:47:50.969Z,0.969176,25f4,6,Warning [FLog::Output] Unrecognized Protocol Arg: launchmode:play
+2023-11-10T11:47:50.969Z,0.969176,25f4,6 [FLog::Output] RobloxChannel has been set to production
+2023-11-10T11:47:50.976Z,0.976176,25f4,6,Warning [FLog::Output] Unrecognized Protocol Arg: launchexp:InApp
+2023-11-10T11:47:50.976Z,0.976176,25f4,6,Info [FLog::UpdateController] UpdateController: versionQueryUrl: https://clientsettingscdn.roblox.com/v2/client-version/WindowsPlayer
+2023-11-10T11:47:50.976Z,0.976176,25f4,6,Info [FLog::UpdateController] WindowsUpdateController: updaterFullPath: C:\Users\GSL.AIR\AppData\Local\Roblox\Versions\version-3aba366803e44f0e\RobloxPlayerInstaller.exe
+2023-11-10T11:47:50.978Z,0.978176,0a64,6,Info [FLog::UpdateController] Update thread: started with protStr roblox-player:1+launchmode:play+gameinfo:L01dHIfjASc962P3uJYO0TzZ05UCWcUUme3wJXdPkrvRa9pKAAIDj1-Ewyf3g0oAR_Q098dfgvBt4JdKZtGu_FfPRuGS0jM5gESJ0wfQQO6CGxqxvOgdzTRNnhUjkSRYqQVHl2ak8IBZx0QEHso40thhp4Jpy-Kw8OQbZx-OP24RJi2qeCEDmnS1XUpFp0cynoa68HwuLV7l63iZKpj8FODUdkH8geYUeTNuG7qzp34+launchtime:1699616867525+placelauncherurl:https%3A%2F%2Fassetgame.roblox.com%2Fgame%2FPlaceLauncher.ashx%3Frequest%3DRequestGame%26browserTrackerId%3D178955483587%26placeId%3D12155062325%26isPlayTogetherGame%3Dfalse%26joinAttemptId%3D3a7d18f9-4e73-448e-b426-e41952017af9%26joinAttemptOrigin%3DPlayButton+browsertrackerid:178955483587+robloxLocale:en_us+gameLocale:uk_ua+channel:+LaunchExp:InApp
+2023-11-10T11:47:50.978Z,0.978176,0a64,6,Info [FLog::UpdateController] Checking if updater exists at C:\Users\GSL.AIR\AppData\Local\Roblox\Versions\version-3aba366803e44f0e\RobloxPlayerInstaller.exe. Returning true
+2023-11-10T11:47:51.325Z,1.325879,0a64,6,Debug [FLog::UpdateController] version response: {"version":"0.602.0.6020631","clientVersionUpload":"version-3aba366803e44f0e","bootstrapperVersion":"1, 6, 0, 6020631"}
+2023-11-10T11:47:51.326Z,1.326878,0a64,6,Info [FLog::UpdateController] Update thread: isUpdateRequired FALSE
+2023-11-10T11:47:51.331Z,1.331872,25f4,6 [FLog::Output] Settings Date header was Fri, 10 Nov 2023 11:47:51 GMT
+2023-11-10T11:47:51.332Z,1.332871,25f4,6 [FLog::Output] Settings Date timestamp is 1699616871
+2023-11-10T11:47:51.369Z,1.369827,25f4,6 [FLog::ClientRunInfo] RobloxGitHash: 9b4440a8bf952423af63e324bbfc61d9fefaa9af
+2023-11-10T11:47:51.369Z,1.369827,25f4,6 [FLog::ClientRunInfo] The base url is http://www.roblox.com/
+2023-11-10T11:47:51.369Z,1.369827,25f4,6 [FLog::ClientRunInfo] The channel is production
+2023-11-10T11:47:51.389Z,1.389804,25f4,6 [FLog::Output] 341 registered enums
+2023-11-10T11:47:51.440Z,1.440562,25f4,6 [FLog::Output] *******
+** Validated reflection database in 50.758260 ms, found 4690 entries with the following skipped: 3 enums, 0 properties, 1 functions, 0 events, 0 callbacks, 0 classes.
+*******
+
+2023-11-10T11:47:51.444Z,1.444552,25f4,6 [FLog::Output] setAssetFolder content
+2023-11-10T11:47:51.445Z,1.445549,25f4,6 [FLog::Output] setExtraAssetFolder C:/Users\GSL.AIR\AppData\Local\Roblox\Versions\version-3aba366803e44f0e\ExtraContent
+2023-11-10T11:47:51.447Z,1.447544,25f4,6 [FLog::Output] DUAR is on.
+2023-11-10T11:47:52.016Z,2.016612,25f4,6 [FLog::WindowsLuaApp] (Win-AuthToken) loadAuthTokenFromDisk:
+2023-11-10T11:47:52.032Z,2.032562,25f4,6 [FLog::LogWin32BTId] LogWin32BTId, App, cookie Native => Engine set RBXEventTrackerV2 as CreateDate=11/06/2023 11:21:39&rbxid=806955019&browserid=178955483587
+2023-11-10T11:47:52.032Z,2.032562,25f4,6 [FLog::LogWin32BTId] LogWin32BTId, App, web launch, websiteBTId is 178955483587, localBtid is 178955483587
+2023-11-10T11:47:52.034Z,2.034556,25f4,6 [FLog::WindowsLuaApp] StartupController finished starting: stage = 2, BTID = 178955483587, upgradeStatus = 3.
+2023-11-10T11:47:52.034Z,2.034556,25f4,6 [FLog::LogWin32BTId] LogWin32BTId, App, after initialize the websiteBTId is 178955483587, and localBtid is 178955483587
+2023-11-10T11:47:52.034Z,2.034556,25f4,6 [FLog::WindowsLuaApp] (Win-AuthToken) saveAuthTokenToDisk:size:1231.
+2023-11-10T11:47:52.034Z,2.034556,25f4,6 [FLog::LogWin32BTId] LogWin32BTId, App, cookie Engine => Native set RBXEventTrackerV2 as CreateDate=11/06/2023 11:21:39&rbxid=806955019&browserid=178955483587
+2023-11-10T11:47:53.742Z,3.742523,25f4,6 [FLog::Warning] UserAgentString Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like GeckoRoblox/WinInetRobloxApp/0.602.0.6020631 (GlobalDist; RobloxDirectDownload) is set
+2023-11-10T11:47:53.742Z,3.742523,25f4,6 [FLog::Output] CrashReporter Start
+2023-11-10T11:47:53.742Z,3.742523,25f4,6 [FLog::Output] The crash upload percentage is 10
+2023-11-10T11:47:53.743Z,3.743528,1818,6 [FLog::Output] WatcherThread Started
+2023-11-10T11:47:54.198Z,4.198047,25f4,6 [FLog::WindowsLuaApp] Set WebView linking marshaller
+2023-11-10T11:47:54.200Z,4.200036,25f4,6 [FLog::SingleSurfaceApp] initializeWithAppStarter
+2023-11-10T11:47:54.200Z,4.200036,25f4,6 [FLog::SingleSurfaceApp] initializeSingleton
+2023-11-10T11:47:54.203Z,4.203020,25f4,6 [FLog::SingleSurfaceApp] setStage: (stage:Native)
+2023-11-10T11:47:54.203Z,4.203020,25f4,6 [FLog::SingleSurfaceApp] setLocale
+2023-11-10T11:47:54.203Z,4.203020,25f4,6 [FLog::SingleSurfaceApp] instantiate controllers
+2023-11-10T11:47:54.203Z,4.203020,25f4,6 [FLog::SurfaceController] SurfaceController[_:1]::SurfaceController, count: 1
+2023-11-10T11:47:54.203Z,4.203020,25f4,6 [FLog::WindowsLuaApp] Launching univeral app in-experience
+2023-11-10T11:47:54.204Z,4.204015,25f4,6 [FLog::SingleSurfaceApp] userDidLogin
+2023-11-10T11:47:54.204Z,4.204015,25f4,6 [FLog::SingleSurfaceApp] applyLocale
+2023-11-10T11:47:54.205Z,4.205009,25f4,6 [FLog::WindowsLuaApp] (Win-AuthToken) saveAuthTokenToDisk:size:1231.
+2023-11-10T11:47:54.205Z,4.205009,25f4,6 [FLog::LogWin32BTId] LogWin32BTId, App, cookie Engine => Native set RBXEventTrackerV2 as CreateDate=11/06/2023 11:21:39&rbxid=806955019&browserid=178955483587
+2023-11-10T11:47:54.211Z,4.211696,25f4,6 [FLog::SingleSurfaceApp] launchUGCGame: (stage:Native).
+2023-11-10T11:47:54.211Z,4.211696,25f4,6 [FLog::SingleSurfaceApp] launchUGCGameInternal
+2023-11-10T11:47:54.213Z,4.213699,25f4,6 [FLog::SingleSurfaceApp] applyLocale
+2023-11-10T11:47:54.222Z,4.222716,25f4,100 [FLog::DataModelPatchConfigurer] OTAPollingEnabled set to: false
+2023-11-10T11:47:54.222Z,4.222716,25f4,100 [FLog::DataModelPatchConfigurer] [_DataModelPatch] Load configs for user key: app:2251010566864806293
+2023-11-10T11:47:54.224Z,4.224720,25f4,100 [FLog::DataModelPatchConfigurer] [_DataModelPatch] Retrieving patch
+2023-11-10T11:47:54.225Z,4.225722,25f4,100 [FLog::DataModelPatchConfigurer] getCachedPatch DataModelPatchConfig : type=1, assetId=5345954812, assetVersion=7735, maxAppVersion=602, localAssetURI=rbxasset://models/DataModelPatch/DataModelPatch.rbxm
+2023-11-10T11:47:54.225Z,4.225722,25f4,100 [FLog::DataModelPatchConfigurer] getCachedPatch : numAttempts=10
+2023-11-10T11:47:54.225Z,4.225722,25f4,100 [FLog::DataModelPatchConfigurer] getCachedPatch : contentId=rbxasset://models/DataModelPatch/DataModelPatch.rbxm
+2023-11-10T11:47:54.225Z,4.225722,25f4,100 [FLog::DataModelPatchConfigurer] getCachedPatch : get patch from content provider for Model
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] Hello to the person reading this! I know you are smiling :)
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] Hola, soy yeetcode medium! 
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] Hello from Star!
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] Hello..? it's me
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] Hi y'all >:D
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] live long and prosper
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] Did you know that Australia went to war with the Emus and lost?
+2023-11-10T11:47:54.880Z,4.880013,25f4,6 [FLog::Output] Meowdy, purrtners
+2023-11-10T11:47:55.081Z,5.081527,25f4,6 [FLog::Audio] OutputDevice 0: Headset Earphone (G435 Wireless Gaming Headset) 48000/2
+2023-11-10T11:47:55.109Z,5.109373,25f4,6 [FLog::Audio] InputDevice 0: Microphone (3- AN-VC500 Camera)({{b286a4ca-e468-44f6-9ee7f0d7013aaf1c}}) 16000/2/4
+2023-11-10T11:47:55.110Z,5.110367,25f4,6 [FLog::Audio] InputDevice 1: Microphone (G435 Wireless Gaming Headset)({{3451c171-a464-4082-91f3dae0d8baa32e}}) 48000/1/4
+2023-11-10T11:47:55.110Z,5.110367,25f4,6 [FLog::Audio] InputDevice 2: Microphone (USB PnP Audio Device)({{3dfd1b04-4a25-4453-aa5d3cce5a7988bc}}) 48000/1/4
+2023-11-10T11:47:55.280Z,5.280491,25f4,6 [FLog::VIPTeleport] new DM, after gameLoadedSignal connect
+2023-11-10T11:47:55.299Z,5.299486,25f4,6 [FLog::UGCGameController] UGCGameController, initialized DataModel(000001719B79EB60)
+2023-11-10T11:47:55.300Z,5.300486,25f4,6 [FLog::GameJoinUtil] GameJoinUtil::joinGame
+2023-11-10T11:47:55.300Z,5.300486,25f4,6 [FLog::GameJoinUtil] GameJoinUtil::joinGamePostStandard: URL: https://gamejoin.roblox.com/v1/join-game BODY: {"placeId":12155062325,"gameJoinAttemptId":"3a7d18f9-4e73-448e-b426-e41952017af9"}
+2023-11-10T11:47:55.301Z,5.301486,25f4,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest: requestCount: 0, url: https://gamejoin.roblox.com/v1/join-game.
+2023-11-10T11:47:55.301Z,5.301486,25f4,6 [FLog::GameJoinUtil] Delaying request by 0.00 seconds
+2023-11-10T11:47:55.301Z,5.301486,25f4,6 [FLog::SurfaceController] [_:1]::replaceDataModel: (stage:0, window = 0xd0712) [tid:0x171890b7e60]
+2023-11-10T11:47:55.312Z,5.312461,1998,6 [FLog::SurfaceController] SurfaceController::enableVR
+2023-11-10T11:47:55.478Z,5.478053,1998,6 [FLog::UGCGameController] Game Scripts are loaded
+2023-11-10T11:47:56.108Z,6.108646,2b88,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest, response:
+{"jobId":"JoinPlace=12155062325;","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null,"queuePosition":0}
+status code: 200
+httpErrorCode: 0
+errorMessage: 
+
+2023-11-10T11:47:56.108Z,6.108646,2b88,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest: requestCount: 1, url: https://gamejoin.roblox.com/v1/join-game.
+2023-11-10T11:47:56.108Z,6.108646,2b88,6 [FLog::GameJoinUtil] Delaying request by 1.00 seconds
+2023-11-10T11:47:56.896Z,6.896610,25f4,6 [FLog::Graphics] D3D11 Adapter: NVIDIA GeForce GTX 1070 Ti
+2023-11-10T11:47:56.896Z,6.896610,25f4,6 [FLog::Graphics] D3D11 Adapter: Vendor 10de Device 1b82 VRAM 8073 RAM 8161
+2023-11-10T11:47:56.896Z,6.896610,25f4,6 [channel] Caps: ThreadSafe 0 Framebuffer 1 FpFramebuffer 1 Shaders 1 Compute 1 Instancing 1 PerInstanceStream 1 ConstBuffers 1
+2023-11-10T11:47:56.896Z,6.896610,25f4,6 [channel] Caps: Framebuffer: MRT 8 MSAA 8 Stencil 1
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: Framebuffer: Depth16 1 Depth24 1 DepthFloat 1 DepthClamp 1
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: Border Color 1
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: Texture: RGB10A2 1 RG11B10F 1 R16I 1
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: Texture: DXT 1 PVR 0 ETC1 0 ETC2 0 Half 1
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: Texture: 3D 1 Array 1 Depth 1 MSAA 1 MSAAFP16 0
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: Texture: NPOT 1 PartialMips 1 CubeMipGen 1 CubeFramebuffer 1
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: Texture: Size 16384 Units 32 VertexUnits 16
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: ConstantBufferSize 65536
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: isAppleGPU 0
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: 32bIdx 1 Memoryless 0
+2023-11-10T11:47:56.897Z,6.897614,25f4,6 [channel] Caps: ColorBGR 0 RTFlip 0 MinusOneToOneDepth 0
+2023-11-10T11:47:56.984Z,6.984719,25f4,6 [FLog::Graphics] Video memory size: 2147483648
+2023-11-10T11:47:57.029Z,7.029521,25f4,6 [FLog::Graphics] Loaded 877 shaders from pack d3d11 variant default (4519800 bytes)
+2023-11-10T11:47:57.029Z,7.029521,25f4,6 [FLog::Graphics] Compiled 612 shaders in 44 ms
+2023-11-10T11:47:57.083Z,7.083320,25f4,6 [FLog::SurfaceController] SurfaceController::enableVR
+2023-11-10T11:47:57.084Z,7.084316,25f4,6 [FLog::SurfaceController] SurfaceController[_:1]::initialize view(00000171A6162390)
+2023-11-10T11:47:57.084Z,7.084316,25f4,6 [FLog::SurfaceController] SurfaceController[_:1]::start dataModel(000001719B79EB60)
+2023-11-10T11:47:57.084Z,7.084316,25f4,6 [FLog::SurfaceController] SurfaceController::RenderJob[_:1]::RenderJob
+2023-11-10T11:47:57.084Z,7.084316,25f4,6 [FLog::SurfaceController] SurfaceController[_:1]::run dataModel(000001719B79EB60)
+2023-11-10T11:47:57.084Z,7.084316,390c,6 [FLog::SurfaceController] SurfaceController::RenderJob::stepDataModelJob: No DM yet. Continue...
+2023-11-10T11:47:57.084Z,7.084316,25f4,6 [FLog::SingleSurfaceApp] setStage: (stage:UGCGame)
+2023-11-10T11:47:57.104Z,7.104241,25f4,6 [FLog::SurfaceController] SurfaceController::RenderJob::scheduleRender: No data model. Bind workspace now...
+2023-11-10T11:47:57.153Z,7.153581,25f4,6 [FLog::Graphics] LayeredClothingMode updated: LC=1 HSR=1
+2023-11-10T11:47:57.182Z,7.182785,25f4,6 [FLog::Graphics] SceneManager: resizing main targets to 1920x1009
